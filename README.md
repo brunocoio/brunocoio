@@ -2,7 +2,7 @@
 - 👀 Interessado em aprender coisas novas
 - 🌱 Atualmente aprendendo React
 - 💞️ Procuro colaborar compartilhando conhecimento
-- 📫 me acha pelo e-mail web.bruno@gmail.com
+- 📫 Pode me achar pelo e-mail web.bruno@gmail.com
 
 <!---
 brunocoio/brunocoio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
