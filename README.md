@@ -1,6 +1,6 @@
 - 👋 Olá, sou @brunocoio
 - 👀 Interessado em aprender coisas novas
-- 🌱 Atualmente aprendendo React
+- 🌱 Atualmente aprendendo JS ECMA
 - 💞️ Procuro colaborar compartilhando conhecimento
 - 📫 Pode me achar pelo e-mail web.bruno@gmail.com
 
