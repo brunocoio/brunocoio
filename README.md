@@ -7,12 +7,6 @@ Sou conhecido como Bruno Coió, sou competitivo, gosto de esportes, música, fil
 
 Separado e sem filhos moro em Indaiatuba, uma cidade do interior de São Paulo.
 
-## Meu perfil Github
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunocoio&show_icons=true&theme=merko">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocoio&theme=merko&layout=compact">
-</div>
-
 ## Linguagens de Front e Back End
 
 <div style="display: inline_block"><br>
